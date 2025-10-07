@@ -7,7 +7,6 @@
 
 [![Live Serial Plot](https://img.shields.io/badge/Serial--Plot-Live-ff6600?style=for-the-badge&logo=serial)](https://muzahidulislamabir66731011.github.io/HC-SR04-Minimal-Distance/)
 
-&gt; Click the badge above for wiring gif & serial-demo video.
 
 ## ⚡ What it does
 - Triggers HC-SR04 every 500 ms  
