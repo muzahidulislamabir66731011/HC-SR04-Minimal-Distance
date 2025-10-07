@@ -34,5 +34,3 @@
 | Faster updates | `delay(500);` → `delay(100);` |
 | Different pins | edit `#define TRIG_PIN` / `ECHO_PIN` |
 | mm precision | formula → `duration * 0.34 / 2;` |
-
-## 📁 Repo Map
