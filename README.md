@@ -5,7 +5,7 @@
 ![](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![](https://img.shields.io/badge/Code-20_Lines-00ff00?style=for-the-badge)
 
-[![Live Serial Plot](https://img.shields.io/badge/Serial--Plot-Live-ff6600?style=for-the-badge&logo=serial)](https://muzahidulislamabir66731011.github.io/HC-SR04-Minimal-Distance/)
+[![Live Serial Plot]
 
 
 ## ⚡ What it does
