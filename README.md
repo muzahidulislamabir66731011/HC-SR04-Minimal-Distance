@@ -5,8 +5,6 @@
 ![](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![](https://img.shields.io/badge/Code-20_Lines-00ff00?style=for-the-badge)
 
-[![Live Serial Plot]
-
 
 ## ⚡ What it does
 - Triggers HC-SR04 every 500 ms  
